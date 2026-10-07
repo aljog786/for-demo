@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1791055676176,
+    "productName": "albu",
+    "brand": "albu",
+    "category": "food",
+    "price": "10",
+    "stock": "103",
+    "description": "superr",
+    "createdAt": "2026-10-03T19:27:56.176Z"
+  },
+  {
+    "id": 1791055779145,
+    "productName": "sharu",
+    "brand": "sharon",
+    "category": "food",
+    "price": "100",
+    "stock": "50",
+    "description": "ooohhhh",
+    "createdAt": "2026-10-03T19:29:39.145Z"
+  },
+  {
+    "id": 1791180332539,
+    "productName": "christo",
+    "brand": "christo",
+    "category": "electronics",
+    "price": "50",
+    "stock": "50",
+    "description": "shock",
+    "createdAt": "2026-10-05T06:05:32.539Z"
+  },
+  {
+    "id": 1791222186328,
+    "productName": "demo",
+    "brand": "demo",
+    "category": "clothing",
+    "price": "150",
+    "stock": "35",
+    "description": "wow",
+    "createdAt": "2026-10-05T17:43:06.328Z"
+  }
+]
